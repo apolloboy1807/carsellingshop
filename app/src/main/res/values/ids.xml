@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="contactCarName" type="id" />
+    <item name="contactprice" type="id" />
+    <item name="contactsprice" type="id" />
+    <item name="contactPrice" type="id" />
+</resources>
